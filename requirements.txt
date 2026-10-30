@@ -1,0 +1,9 @@
+# AI Symphony — Python dependencies
+flask>=3.0
+requests>=2.31
+numpy>=1.26
+opencv-python>=4.9
+deepface>=0.0.93
+tf-keras>=2.16          # DeepFace compatibility with TensorFlow 2.16+
+pygame>=2.5
+ollama>=0.3
